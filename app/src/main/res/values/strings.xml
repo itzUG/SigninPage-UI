@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InfoByte</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="sign_in_string">Sign in</string>
+    <string name="new_user__create_an_account_string">New user? Create an account</string>
+    <string name="email_address_ek1_string">Email address</string>
+    <string name="continue_ek1_string">Continue</string>
+    <string name="or_string">or</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

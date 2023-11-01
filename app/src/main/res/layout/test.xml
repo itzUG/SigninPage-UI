@@ -1,0 +1,191 @@
+<HorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		iphone_14_plus___1
+     *	@date 		Monday 07th of August 2023 05:36:24 AM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+    <ScrollView android:id="@+id/iphone_14_plus___1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout android:id="@+id/content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+
+
+            <RelativeLayout android:id="@+id/page_iphone_14_plus___1_ek1"
+                android:layout_marginTop="0dp"
+                android:layout_marginStart="0dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View   android:id="@+id/_bg__iphone_14_plus___1_ek2"
+                    android:background="@drawable/_bg__iphone_14_plus___1_ek2_shape"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="428dp"
+                    android:layout_height="926dp" />
+
+                <TextView android:id="@+id/sign_in"
+                    android:fontFamily="@font/work_sans"
+                    android:textStyle="bold"
+                    android:textSize="26.16sp"
+                    android:textColor="@color/black"
+                    android:layout_marginLeft="26dp"
+                    android:layout_marginTop="56dp"
+                    android:layout_width="118.08139610291dp"
+                    android:layout_height="49.081396102905dp"
+                    android:text="Sign in"
+                    />
+
+                <TextView android:id="@+id/new_user__create_an_account"
+                    android:fontFamily="@font/work_sans"
+                    android:textSize="15.7sp"
+                    android:textColor="@color/sign_in_color"
+                    android:layout_marginLeft="26dp"
+                    android:layout_marginTop="110dp"
+                    android:layout_width="247.8488368988dp"
+                    android:layout_height="28.848836898804dp"
+                    android:text="@string/new_user__create_an_account_string"
+                    />
+
+
+                <RelativeLayout android:id="@+id/frame_8"
+                    android:layout_marginTop="198dp"
+                    android:layout_marginStart="26dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+
+                    <RelativeLayout android:id="@+id/email_address"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <View  android:id="@+id/rectangle_4"
+                            android:background="@drawable/rectangle_4_shape"
+                            android:layout_marginStart="0dp"
+                            android:layout_marginTop="46dp"
+                            android:layout_width="340.12dp"
+                            android:layout_height="0.87dp" />
+
+                        <TextView android:id="@+id/email_address_ek1"
+                            android:fontFamily="@font/work_sans"
+                            android:textSize="17.44sp"
+                            android:textColor="@color/sign_in_color"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="142.72093009949dp"
+                            android:layout_height="31.720930099487dp"
+                            android:text="@string/email_address_ek1_string"
+                            />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:layout_marginTop="293dp"
+                    android:layout_marginStart="253dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <View   android:id="@+id/rectangle_1"
+                        android:background="@drawable/rectangle_1_shape"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="130.81dp"
+                        android:layout_height="39.24dp" />
+
+                    <TextView android:id="@+id/continue_ek1"
+                        android:fontFamily="@font/work_sans"
+                        android:textStyle="bold"
+                        android:layout_gravity="center_horizontal|center"
+                        android:gravity="center"
+                        android:textSize="15.7sp"
+                        android:textColor="@color/rectangle_4_color"
+                        android:layout_marginLeft="26dp"
+                        android:layout_marginTop="11dp"
+                        android:layout_width="86.108836898804dp"
+                        android:layout_height="27.108836898804dp"
+                        android:text="@string/continue_ek1_string"
+                        />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/line"
+                    android:layout_marginTop="380dp"
+                    android:layout_marginStart="44dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <View   android:id="@+id/line_1"
+                        android:background="@drawable/line_1_shape"
+                        android:alpha="0.3"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_width="340.12dp"
+                        android:layout_height="0.87dp" />
+
+
+                    <RelativeLayout android:id="@+id/frame_60352"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginStart="154dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <TextView android:id="@+id/or"
+                            android:fontFamily="@font/work_sans"
+                            android:layout_gravity="center_horizontal|center"
+                            android:gravity="center"
+                            android:alpha="0.5"
+                            android:textSize="13.08sp"
+                            android:textColor="@color/sign_in_color"
+                            android:layout_marginLeft="6.72dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="26dp"
+                            android:layout_height="24.540698051453dp"
+                            android:text="@string/or_string"
+                            />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+                <ImageView
+                    android:id="@+id/https___www_behance_net_pavlovvisuals"
+                    android:layout_width="313.95dp"
+                    android:layout_height="245.57dp"
+                    android:layout_marginStart="57dp"
+                    android:layout_marginTop="442dp"
+                    android:contentDescription="https___www_behance_net_pavlovvisuals"
+                    android:src="@drawable/https___www_behance_net_pavlovvisuals" />
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+    </ScrollView>
+</HorizontalScrollView>
